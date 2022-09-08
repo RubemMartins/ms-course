@@ -1,7 +1,6 @@
 package com.devsuperior.hrpayroll.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import com.devsuperior.hrpayroll.entites.Payment;
